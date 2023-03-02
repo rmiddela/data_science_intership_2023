@@ -1,1 +1,1 @@
-# data_science_intership_2023
+# data_science_internship_23
